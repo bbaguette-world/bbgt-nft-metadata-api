@@ -1,0 +1,24 @@
+{
+  "name": "bbgt-nft-metadata-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbaguette-world/bbgt-nft-metadata-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbaguette-world/bbgt-nft-metadata-api/issues"
+  },
+  "homepage": "https://github.com/bbaguette-world/bbgt-nft-metadata-api#readme",
+  "dependencies": {
+    "ethers": "^5.5.4",
+    "express": "^4.17.2"
+  }
+}

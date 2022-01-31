@@ -1,0 +1,23 @@
+{
+  "name": "Bbagutte #21",
+  "description": "it's so delicious Bbaguette",
+  "image": "https://gateway.pinata.cloud/ipfs/QmU53MXfhBnFwJmDz2P7A2rMyRSQ2QSjqNRD8iD2oteCbH/f75295f908bdc7c4d763da9ca253a7ecb41183e6.png",
+  "dna": "f75295f908bdc7c4d763da9ca253a7ecb41183e6",
+  "edition": 21,
+  "date": 1643526246505,
+  "attributes": [
+    {
+      "trait_type": "Bread",
+      "value": "Normal1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Unique",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Bbagutte #23",
+  "description": "it's so delicious Bbaguette",
+  "image": "https://gateway.pinata.cloud/ipfs/QmU53MXfhBnFwJmDz2P7A2rMyRSQ2QSjqNRD8iD2oteCbH/b79de6f4c6bc6f7325dd14644738d81000f71af3.png",
+  "dna": "b79de6f4c6bc6f7325dd14644738d81000f71af3",
+  "edition": 23,
+  "date": 1643527236268,
+  "attributes": [
+    {
+      "trait_type": "Bread",
+      "value": "Sponge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Eyebrow",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Ugly2"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Bride"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Bbagutte #78",
+  "description": "it's so delicious Bbaguette",
+  "image": "https://gateway.pinata.cloud/ipfs/QmU53MXfhBnFwJmDz2P7A2rMyRSQ2QSjqNRD8iD2oteCbH/9a9a6a7a6aa15292c9ab8946eabf02614d1e23e4.png",
+  "dna": "9a9a6a7a6aa15292c9ab8946eabf02614d1e23e4",
+  "edition": 78,
+  "date": 1643527247538,
+  "attributes": [
+    {
+      "trait_type": "Bread",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Eyebrow",
+      "value": "None"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "None"
+    },
+    {
+      "trait_type": "Item",
+      "value": "TuxedoBlue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
