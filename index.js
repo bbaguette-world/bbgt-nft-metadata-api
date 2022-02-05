@@ -4,9 +4,11 @@ const { ethers } = require('ethers')
 
 const erc721Address = '0xCdb6280e704206C1328ad4f891EDfdce2a8dbFFc'
 const abi = require('./contracts/abi')
+const cors = require('cors')
+const port = 3000
 
 const app = express()
-const port = 3000
+app.use(cors())
 
 const run = async () => {
 	const provider = new ethers.getDefaultProvider(
