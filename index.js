@@ -2,7 +2,7 @@ const express = require('express')
 const fs = require('fs')
 const { ethers } = require('ethers')
 
-const erc721Address = '0xCdb6280e704206C1328ad4f891EDfdce2a8dbFFc'
+const erc721Address = '0x7532b68eE49324C06AA33F109d65F56e00912E3c' // REAL
 const abi = require('./contracts/abi')
 const cors = require('cors')
 const port = 3000
